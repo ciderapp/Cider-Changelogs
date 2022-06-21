@@ -11,14 +11,6 @@
 
 * details
 
-### UI
-
-* details
-
-### Radio
-
-* details
-
 ### Fixes
 
 * details
